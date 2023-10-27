@@ -8,12 +8,11 @@ typedef struct {
 
 int main () {
     // Data generated using ChatGPT.
-    int number_of_students = 1;
-    int i;
+    int number_of_students = 10, i;
     student students [] = {
         {"Alice Smith",    "64827593", 67},
         {"Bob Johnson",    "19374650", 89},
-        {"Charlie Brown",  "82056914", 76}, 
+        {"Charlie Brown",  "82056914", 76},
         {"David Davis",    "45790182", 44},
         {"Eve Wilson",     "36102478", 91},
         {"Frank Anderson", "93571826", 53},
